@@ -65,6 +65,7 @@ the key-value pairs that each cmdlet supports.
   - `Alignment` - optional
 
 - `Format-Wide`
+  - `Name`/`Label` - optional
   - `Expression`
   - `FormatString` - optional
 
